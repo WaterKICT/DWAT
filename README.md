@@ -26,7 +26,7 @@ The model introduction and the download guidelines are available on the WMO web 
 
 ## Manual and technical documents
 * DWAT User Manual  
-  https://filecloud.wmo.int/share/s/mJg_tTOJTbmzMjKfYBtR7g
+  https://github.com/WaterKICT/DWAT/blob/main/Manual/DWAT-Manual_2.0.pdf
 * DWAT Technical note  
   <<Link>>
 <br/>
