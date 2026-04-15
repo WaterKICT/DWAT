@@ -21,7 +21,8 @@ The model introduction and the download guidelines are available on the WMO web 
 * DWAT beta version (Version 2) download  
   https://filecloud.wmo.int/share/s/Nn1JwfmVQYi3surZRlDtHQ
 * Installation note  
-  - Visual C++가 설치되어 있지 않으면 배포된 두 개의 exe 파일을 모두 설치해야 합니다.  
+  - Visual C++가 설치되어 있지 않으면 배포된 두 개의 exe 파일을 모두 설치
+  - If Visual C++ is not installed, install both of the provided .exe files.
 <br/>
 
 ## Manual and technical documents
